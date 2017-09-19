@@ -26,7 +26,7 @@
     "y": 240
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,6 +44,10 @@
     {
       "class": "text",
       "id": "5196998B-8B82-4CF3-A6DC-A75ECBD308E4"
+    },
+    {
+      "class": "text",
+      "id": "F715D58B-AA7D-4AC6-9E4B-DFD864AEA97D"
     }
   ],
   "name": "Artboard",
